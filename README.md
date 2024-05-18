@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Shivanshu Dwivedi
 - 👀 I’m interested in crafting captivating front-end designs through code
 - 🌱 I’m currently learning Selenium
-- 📫 How to reach me email: prshivanshu7@gmail.com
+- 💌 How to reach me email: prshivanshu7@gmail.com
+- 📫 Check out my project on a consulting website UI: [Niche Consulting](https://nicheconsulting.netlify.app/)
